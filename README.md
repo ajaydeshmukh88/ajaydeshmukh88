@@ -43,4 +43,7 @@
 
 - **Visitors Counter**:  
   ```markdown
-  ![Visitor Count](https://profile-counter.glitch.me/ajaydeshmukh88/count.svg)
+### 🔗 View Profile :  [github.io](https://ajaydeshmukh88.github.io/My-Profile/))
+
+
+
