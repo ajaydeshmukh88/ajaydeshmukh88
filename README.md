@@ -29,7 +29,7 @@
 
 ---
 
-### 🧰 Tools You Can Use Like Pushpender
+### 🧰 Tools You Can Use Like Ajay
 
 - **Profile views badge**: [komarev.com](https://komarev.com/ghpvc/)
 - **GitHub stats**: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
