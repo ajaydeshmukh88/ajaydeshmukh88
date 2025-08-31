@@ -20,7 +20,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://bitbucket.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/></a>
-  <a href="https://restfulapi.net/" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-api-web-flaticons-lineal-color-flat-icons.png" alt="REST APIs" width="40" height="40"/></a>
+
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/></a>
